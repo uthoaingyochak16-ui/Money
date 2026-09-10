@@ -1,0 +1,7 @@
+{
+  "name": "Money Manager",
+  "description": "A calm, human-designed Android personal finance app with real-time balance tracking, spreadsheet logs, and spending insights.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
